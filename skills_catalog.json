@@ -1,0 +1,20 @@
+{
+  "repo_id": "hogeexxl-peekflow-skills",
+  "repo_name": "PeekFlow Skills",
+  "generated_at": "2026-03-21T15:15:00Z",
+  "skills": [
+    {
+      "id": "hello-remote",
+      "name": "hello-remote",
+      "description": "A minimal remote skill used to verify PeekFlow remote installation.",
+      "version": "1.0.0",
+      "summary": "Minimal test skill for the remote catalog flow.",
+      "entry_path": "skills/hello-remote/SKILL.md",
+      "files": [
+        {
+          "path": "skills/hello-remote/SKILL.md"
+        }
+      ]
+    }
+  ]
+}
