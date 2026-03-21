@@ -1,18 +1,91 @@
 {
   "repo_id": "hogeexxl-peekflow-skills",
   "repo_name": "PeekFlow Skills",
-  "generated_at": "2026-03-21T15:15:00Z",
+  "generated_at": "2026-03-21T16:01:31Z",
   "skills": [
     {
-      "id": "hello-remote",
-      "name": "hello-remote",
-      "description": "A minimal remote skill used to verify PeekFlow remote installation.",
+      "id": "swiftui-expert-skill",
+      "name": "swiftui-expert-skill",
+      "description": "Write, review, or improve SwiftUI code following best practices for state management, view composition, performance, macOS-specific APIs, and iOS 26+ Liquid Glass adoption.",
       "version": "1.0.0",
-      "summary": "Minimal test skill for the remote catalog flow.",
-      "entry_path": "skills/hello-remote/SKILL.md",
+      "summary": "Full SwiftUI best-practices skill with references for state, composition, performance, animation, accessibility, charts, macOS, and Liquid Glass.",
+      "entry_path": "skills/swiftui-expert-skill/SKILL.md",
       "files": [
         {
-          "path": "skills/hello-remote/SKILL.md"
+          "path": "skills/swiftui-expert-skill/SKILL.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/accessibility-patterns.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/animation-advanced.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/animation-basics.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/animation-transitions.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/charts-accessibility.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/charts.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/image-optimization.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/latest-apis.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/layout-best-practices.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/liquid-glass.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/list-patterns.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/macos-scenes.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/macos-views.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/macos-window-styling.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/performance-patterns.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/scroll-patterns.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/sheet-navigation-patterns.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/state-management.md"
+        },
+        {
+          "path": "skills/swiftui-expert-skill/references/view-structure.md"
+        }
+      ]
+    },
+    {
+      "id": "swiftui-liquid-glass",
+      "name": "swiftui-liquid-glass",
+      "description": "Implement, review, or improve SwiftUI features using the iOS 26+ Liquid Glass API.",
+      "version": "1.0.0",
+      "summary": "Focused Liquid Glass skill with implementation guidance, checklist, and reference material.",
+      "entry_path": "skills/swiftui-liquid-glass/SKILL.md",
+      "files": [
+        {
+          "path": "skills/swiftui-liquid-glass/SKILL.md"
+        },
+        {
+          "path": "skills/swiftui-liquid-glass/references/liquid-glass.md"
         }
       ]
     }
