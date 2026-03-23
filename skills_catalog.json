@@ -1,7 +1,7 @@
 {
   "repo_id": "hogeexxl-peekflow-skills",
   "repo_name": "PeekFlow Skills",
-  "generated_at": "2026-03-21T16:01:31Z",
+  "generated_at": "2026-03-24T00:00:00Z",
   "skills": [
     {
       "id": "swiftui-expert-skill",
@@ -86,6 +86,22 @@
         },
         {
           "path": "skills/swiftui-liquid-glass/references/liquid-glass.md"
+        }
+      ]
+    },
+    {
+      "id": "video-chapter-splitter",
+      "name": "video-chapter-splitter",
+      "description": "根据字幕语义自动识别章节边界，并将长视频切成独立片段。",
+      "version": "1.0.0",
+      "summary": "先转字幕，再按语义章节生成切割配置并输出独立视频片段。",
+      "entry_path": "skills/video-chapter-splitter/SKILL.md",
+      "files": [
+        {
+          "path": "skills/video-chapter-splitter/SKILL.md"
+        },
+        {
+          "path": "skills/video-chapter-splitter/video_chapter_splitter.py"
         }
       ]
     }
